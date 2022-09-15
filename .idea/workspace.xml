@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df9cc770-0166-4c75-8c7f-33fe3a03e9e2" name="Changes" comment="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/projectsonglibrary/ProjectSonglibraryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/projectsonglibrary/ProjectSonglibraryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/projectsonglibrary/Song/SongController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/projectsonglibrary/Song/SongController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EknZb3gznjaLwoc3rsCZ6PAwld" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lanya/IdeaProjects/project-songlibrary&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lanya\IdeaProjects\project-songlibrary\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProjectSonglibraryApplication">
+    <configuration name="ProjectSonglibraryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qa.projectsonglibrary.ProjectSonglibraryApplication" />
+      <module name="project-songlibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.projectsonglibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectSonglibraryApplicationTests.testAssertEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-songlibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.projectsonglibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.projectsonglibrary" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.projectsonglibrary.ProjectSonglibraryApplicationTests" />
+      <option name="METHOD_NAME" value="testAssertEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectSonglibraryApplicationTests.testAssertNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-songlibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.projectsonglibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.projectsonglibrary" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.projectsonglibrary.ProjectSonglibraryApplicationTests" />
+      <option name="METHOD_NAME" value="testAssertNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectSonglibraryApplicationTests.testAssumeFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-songlibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.projectsonglibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.projectsonglibrary" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.projectsonglibrary.ProjectSonglibraryApplicationTests" />
+      <option name="METHOD_NAME" value="testAssumeFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectSonglibraryApplicationTests.testAssumeTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-songlibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.projectsonglibrary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.projectsonglibrary" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.projectsonglibrary.ProjectSonglibraryApplicationTests" />
+      <option name="METHOD_NAME" value="testAssumeTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProjectSonglibraryApplication" />
+        <item itemvalue="JUnit.ProjectSonglibraryApplicationTests.testAssumeFalse" />
+        <item itemvalue="JUnit.ProjectSonglibraryApplicationTests.testAssertNull" />
+        <item itemvalue="JUnit.ProjectSonglibraryApplicationTests.testAssertEqual" />
+        <item itemvalue="JUnit.ProjectSonglibraryApplicationTests.testAssumeTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9cc770-0166-4c75-8c7f-33fe3a03e9e2" name="Changes" comment="" />
+      <created>1663148507392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663148507392</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663244885732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663244885732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663245225657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663245225657</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663245508690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663245508691</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663245990607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663245990608</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663246139696</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663246139696</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663246156856</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663246156856</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663246467717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663246467717</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663246847931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663246847931</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663246857803</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663246857803</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete">
+      <created>1663246866265</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663246866265</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete">
+      <created>1663253314882</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663253314882</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete">
+      <created>1663253413458</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663253413458</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete">
+      <created>1663254332796</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663254332796</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete">
+      <created>1663255779246</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663255779246</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete">
+      <created>1663255825947</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663255825947</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete">
+      <created>1663255937963</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663255937963</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; incomplete" />
+    <MESSAGE value="3rd git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; complete&#10;JUnit Testing -&gt; complete" />
+    <MESSAGE value="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete" />
+  </component>
+</project>

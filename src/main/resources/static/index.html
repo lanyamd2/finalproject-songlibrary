@@ -1,0 +1,116 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index Page</title>
+  </head>
+  <body>
+    <h1>Index Page</h1>
+    <p>
+      The following instructions outline how to use this Spring application:
+    </p>
+    <h3>Instructions</h3>
+    <p>The server port is set to 8282</p>
+    <p>Therefore, to access the application you will need to use the format:</p>
+    <p>localhost:8282/{insert desired path}</p>
+
+    <h3>View all songs</h3>
+    <p>
+      To view the full list of songs use the url:
+      <a href="http://localhost:8282/songs">click here</a>
+    </p>
+
+    <h3>Find Songs</h3>
+    <h4>Find Songs By ID</h4>
+    <p>
+      Use the following url format to find songs by their their id:
+      <a href="http://localhost:8282/song/{id}"
+        >http://localhost:8282/song/{id}</a
+      >
+    </p>
+    <p>Replace {id} with the ID number linked to the song you'd like to find</p>
+
+    <h4>Find Songs By Title</h4>
+    <p>
+      Use the following url format to find songs by their title:
+      <a href="http://localhost:8282/songtitle/{title}"
+        >http://localhost:8282/songtitle/{title}</a
+      >
+    </p>
+    <p>Replace {title} with the title of the song you would like to find</p>
+
+    <h4>Find Songs By Artist</h4>
+    <p>
+      Use the following url format to find songs by their artist:
+      <a href="http://localhost:8282/songartist/{artist}"
+        >http://localhost:8282/songartist/{artist}</a
+      >
+    </p>
+    <p>Replace {artist} with the artist of the song you would like to find</p>
+
+    <h4>Find Songs By Song Length</h4>
+    <h5>Less Than</h5>
+    <p>
+      Use the following url format to find songs whose lengths are below a
+      certain number:
+      <a href="http://localhost:8282/songlengthless/{length}"
+        >http://localhost:8282/songlengthless/{length}</a
+      >
+    </p>
+    <p>
+      Replace {length} with the maximum number of minutes you'd like to filter
+      out
+    </p>
+
+    <h5>Greater Than</h5>
+    <p>
+      Use the following url format to find songs whose lengths are above a
+      certain number:
+      <a href="http://localhost:8282/songlengthgreater/{length}"
+        >http://localhost:8282/songlengthgreater/{length}</a
+      >
+    </p>
+    <p>
+      Replace {length} with the minimum number of minutes you'd like to filter
+      out
+    </p>
+
+    <h3>Add Songs</h3>
+    <p>
+      You can add songs via Postman by completing the following instructions:
+    </p>
+    <ol>
+      <li>
+        Select the POST method and enter the following url:
+        <a href="http://localhost:8282/newsong"
+          >http://localhost:8282/newsong</a
+        >
+      </li>
+      <li>Select the Body tab, then raw JSON</li>
+      <li>
+        Enter the following JSON format: { "id": 1, "title": "Song_Name",
+        "artist": "Song_Artist", "length": 2.0 }
+      </li>
+    </ol>
+    <p>Please note that the ID is an integer and the song length is a float</p>
+
+    <p>JSON Format:</p>
+
+    <h3>Delete Songs</h3>
+    <p>
+      You can delete songs via Postman by completing the following instructions
+    </p>
+    <ol>
+      <li>
+        Select the DELETE method and enter the following url:
+        <a href="http://localhost:8282/deletesong/{id}"
+          >http://localhost:8282/deletesong/{id}</a
+        >
+      </li>
+      <li>
+        Replace {id} with the ID No linked to the song you'd like to delete
+      </li>
+    </ol>
+  </body>
+</html>
