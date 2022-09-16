@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df9cc770-0166-4c75-8c7f-33fe3a03e9e2" name="Changes" comment="1st git commit - please note the project is not complete yet.&#10;&#10;Jira/Miro Documentation/User Stories -&gt; incomplete&#10;ERD -&gt; incomplete&#10;MySQL Server Connection -&gt; complete&#10;Front End: HTML, CSS, JavaScript -&gt; incomplete&#10;JUnit Testing -&gt; complete">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/projectsonglibrary/SongTests/SongRepoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qa/projectsonglibrary/SongTests/SongServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/projectsonglibrary/ProjectSonglibraryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/projectsonglibrary/ProjectSonglibraryApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/projectsonglibrary/Song/SongController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/projectsonglibrary/Song/SongController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +50,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lanya/IdeaProjects/project-songlibrary&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Lanya/IdeaProjects/project-songlibrary"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lanya\IdeaProjects\project-songlibrary\src\main\resources\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProjectSonglibraryApplication">
+  <component name="RunManager" selected="JUnit.SongServiceTest.saveOrUpdate">
     <configuration name="ProjectSonglibraryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.qa.projectsonglibrary.ProjectSonglibraryApplication" />
       <module name="project-songlibrary" />
@@ -121,17 +125,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProjectSonglibraryApplicationTests.testAssumeTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SongServiceTest.saveOrUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project-songlibrary" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qa.projectsonglibrary.*" />
+          <option name="PATTERN" value="com.qa.projectsonglibrary.SongTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.qa.projectsonglibrary" />
-      <option name="MAIN_CLASS_NAME" value="com.qa.projectsonglibrary.ProjectSonglibraryApplicationTests" />
-      <option name="METHOD_NAME" value="testAssumeTrue" />
+      <option name="PACKAGE_NAME" value="com.qa.projectsonglibrary.SongTests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.projectsonglibrary.SongTests.SongServiceTest" />
+      <option name="METHOD_NAME" value="saveOrUpdate" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SongServiceTest.saveOrUpdate" />
         <item itemvalue="Application.ProjectSonglibraryApplication" />
         <item itemvalue="JUnit.ProjectSonglibraryApplicationTests.testAssumeFalse" />
         <item itemvalue="JUnit.ProjectSonglibraryApplicationTests.testAssertNull" />
         <item itemvalue="JUnit.ProjectSonglibraryApplicationTests.testAssertEqual" />
-        <item itemvalue="JUnit.ProjectSonglibraryApplicationTests.testAssumeTrue" />
       </list>
     </recent_temporary>
   </component>
