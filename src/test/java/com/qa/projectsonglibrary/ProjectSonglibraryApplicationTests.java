@@ -41,7 +41,7 @@ class ProjectSonglibraryApplicationTests {
 	@Test
 	void testAssertEqual(){
 		String name="Lucy";
-		assertEquals(10+9,19);
+		assertEquals(10+9,21);
 		assertEquals("Lucy", name);
 	}
 
